@@ -1,1 +1,1 @@
-FROM ubuntu:rolling
+FROM ubuntu:24.10
