@@ -1,1 +1,1 @@
-FROM ubuntu:24.10
+FROM registry.ubuntu.com/ubuntu:24.04
